@@ -8,8 +8,18 @@ class ChatFrame(ctk.CTkFrame):
         self.grid_rowconfigure(0, weight=1)
         self.grid_columnconfigure(0, weight=1)
 
-        self.textbox = ctk.CTkTextbox(self, state="disabled", font=ctk.CTkFont(size=14), wrap="word")
+        self.textbox = ctk.CTkTextbox(self, state="normal", font=ctk.CTkFont(size=14), wrap="word")
         self.textbox.grid(row=0, column=0, columnspan=2, padx=10, pady=10, sticky="nsew")
+
+        # Enable copy functionality
+        self.textbox.bind("<Control-c>", lambda e: self.textbox.event_generate("<<Copy>>"))
+        self.textbox.bind("<Control-C>", lambda e: self.textbox.event_generate("<<Copy>>")) # For consistency
+        
+        # Make text selectable with mouse
+        self.textbox.configure(state="disabled")
+        self.textbox.configure(cursor="arrow")
+        self.textbox.bind("<Button-1>", lambda e: self.enable_text_selection())
+        self.textbox.bind("<ButtonRelease-1>", lambda e: self.disable_text_editing())
 
         # Define tags for message styling
         self.textbox.tag_config("user_sender", foreground="#1E90FF") # DodgerBlue
@@ -52,6 +62,7 @@ class ChatFrame(ctk.CTkFrame):
         self.textbox.insert("end", f"{sender}:\n", sender_tag)
         self.textbox.insert("end", f"{message}\n\n", message_tag)
         
+        # Disable editing after inserting text but allow selection
         self.textbox.configure(state="disabled")
         self.textbox.see("end")
 
@@ -62,3 +73,24 @@ class ChatFrame(ctk.CTkFrame):
         else:
             self.entry.configure(state="normal")
             self.send_button.configure(state="normal", text="Invia")
+            
+    def enable_text_selection(self):
+        """Temporarily enable text selection"""
+        self.textbox.configure(state="normal")
+        
+    def disable_text_editing(self):
+        """Disable editing while keeping selection capability"""
+        # Get current selection if any
+        try:
+            selected_text = self.textbox.get("sel.first", "sel.last")
+            has_selection = True
+        except:
+            has_selection = False
+            
+        # Disable editing but keep the selection if there was one
+        self.textbox.configure(state="disabled")
+        
+        # If text was selected, copy it to clipboard
+        if has_selection:
+            self.textbox.clipboard_clear()
+            self.textbox.clipboard_append(selected_text)
