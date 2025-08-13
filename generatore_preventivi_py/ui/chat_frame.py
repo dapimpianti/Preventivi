@@ -11,6 +11,15 @@ class ChatFrame(ctk.CTkFrame):
         self.textbox = ctk.CTkTextbox(self, state="disabled", font=ctk.CTkFont(size=14), wrap="word")
         self.textbox.grid(row=0, column=0, columnspan=2, padx=10, pady=10, sticky="nsew")
 
+        # Define tags for message styling
+        self.textbox.tag_config("user_sender", foreground="#1E90FF") # DodgerBlue
+        self.textbox.tag_config("ai_sender", foreground="#32CD32") # LimeGreen
+        self.textbox.tag_config("system_sender", foreground="#FFA500") # Orange
+
+        self.textbox.tag_config("user_message", background="#E0E0E0", foreground="#333333", lmargin1=5, lmargin2=5, rmargin=5, spacing1=5, spacing3=5) # Light Gray background for user
+        self.textbox.tag_config("ai_message", background="#D0F0C0", foreground="#333333", lmargin1=5, lmargin2=5, rmargin=5, spacing1=5, spacing3=5) # Light Green background for AI
+        self.textbox.tag_config("system_message", background="#FFFACD", foreground="#333333", lmargin1=5, lmargin2=5, rmargin=5, spacing1=5, spacing3=5) # LemonChiffon for system
+
         self.entry = ctk.CTkEntry(self, placeholder_text="Scrivi il tuo messaggio...", font=ctk.CTkFont(size=14))
         self.entry.grid(row=1, column=0, padx=(10, 5), pady=(0, 10), sticky="ew")
         self.entry.bind("<Return>", self.send_message_event)
@@ -27,7 +36,22 @@ class ChatFrame(ctk.CTkFrame):
 
     def add_message(self, sender: str, message: str):
         self.textbox.configure(state="normal")
-        self.textbox.insert("end", f"{sender}:\n{message}\n\n")
+        
+        sender_tag = ""
+        message_tag = ""
+        if sender == "User":
+            sender_tag = "user_sender"
+            message_tag = "user_message"
+        elif sender == "AI":
+            sender_tag = "ai_sender"
+            message_tag = "ai_message"
+        elif sender == "System": # Added for system messages
+            sender_tag = "system_sender"
+            message_tag = "system_message"
+
+        self.textbox.insert("end", f"{sender}:\n", sender_tag)
+        self.textbox.insert("end", f"{message}\n\n", message_tag)
+        
         self.textbox.configure(state="disabled")
         self.textbox.see("end")
 
