@@ -1,0 +1,4 @@
+customtkinter
+python-dotenv
+google-generativeai
+pypdf
