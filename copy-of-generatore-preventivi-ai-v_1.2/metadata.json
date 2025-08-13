@@ -1,0 +1,6 @@
+{
+  "name": "Copy of Generatore Preventivi AI V_1.2",
+  "description": "Un chatbot basato su RAG che utilizza la documentazione fornita (file .txt e .csv) per generare preventivi accurati. Carica i tuoi documenti, indicizza la base di conoscenza e inizia a chattare per creare preventivi istantanei.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
