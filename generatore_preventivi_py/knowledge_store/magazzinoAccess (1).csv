@@ -1,0 +1,205 @@
+ID;descrizione;prezzo;data_ins_prezzo;fornitore;settore
+1;Caldaia Cosmogas modello Novadens 24 K con microaccumulo cod. 111005508;1942,92;19/01/2023;Nuova Sirt;Caldaia
+2;Caldaia Cosmogas modello Novadens 34K cod. 11195508 con microaccumulo;2130,84;06/04/2022;Nuova Sirt;Caldaia
+3;Caldaia Cosmogas modello Mydens 24 P istantanea cod.  1A6500008;1482,84;02/01/2023;Nuova Sirt;Caldaia
+4;Caldaia Cosmogas  modello Mydens 34 P istantanea cod. 1A6900008;1685,88;02/01/2023;Nuova Sirt;Caldaia
+5;Tubo prolunga m.f. in polipropilene d. 80 lunghezza 1000mm Cosmogas cod. 62617236;19,98;19/01/2023;Nuova Sirt;Tubazioni caldaia
+6;Tubo prolunga m.f. in polipropilene d. 80 lunghezza 500mm Cosmogas cod. 62617282;14,69;19/01/2023;Nuova Sirt;Tubazioni caldaia
+7;Curva m.f. 90° in polipropilene d. 80 Cosmogas cod. 62617244;16,04;19/01/2023;Nuova Sirt;Tubazioni caldaia
+8;Kit scarico sdoppiato d. 80/80 PP Cosmogas cod. 62617226;44,82;31/03/2025;Nuova Sirt;Tubazioni caldaie
+9;Wc Pozzi Ginori Colibri 2 sc/pav bianco art. 63300000;34;15/06/2018;Unicom;Sanitari
+10;Sedile Pozzi Ginori Colibri 2 art. 63760000;25,43;15/06/2018;Unicom;Sanitari
+11;Lavabo Pozzi Ginori Colibri 2 bianco art. 63040000;31,92;15/06/2018;Unicom;Sanitari
+12;Colonna Pozzi Ginori Colibri 2 art. 63150000;22,18;15/06/2018;Unicom;Sanitari
+13;Bidet Pozzi Ginori Colibri 2 bianco art. 63250000;33,02;15/06/2018;Unicom;Sanitari
+14;Miscelatore Ecostyle per bidet c/ scarico snodo orientab. Art. BTESTCBI01;36,68;07/06/2017;Unicom;Rubinetteria
+15;Miscelatore Ecostyle per lavabo c/ scarico art. BTESTCLA01;36,68;07/06/2017;Unicom;Rubinetteria
+16;Placca Geberit Sigma 2 tasti bianca art. 115.770.11.5;29,17;15/06/2018;Unicom;Sanitari
+17;Piatto doccia Pozzi Ginori Nilo ceramica b.co 90x70 art. 60181000;71,27;07/06/2017;Unicom;Sanitari
+18;Miscelatore doccia Ideal Standard Ceraplan 3 art. A6382AA;43,49;07/06/2017;Unicom;Rubinetteria
+19;Cassetta da incasso Geberit Sigma 8 art. 109.790.00.1;85,55;07/06/2017;Unicom;Sanitari
+20;Cassetta Combifix Sigma 8 cm per wc sospeso art. 110.790.00.1;132;07/06/2017;Unicom;Sanitari
+21;Tubo rame d. 28X1 in verghe pezzo al MT;6,5;26/04/2017;bertani;rame
+22;Tubo rame 28x1,5 in verghe prezzo al MT;9,8;26/07/2017;bertani;rame
+23;Tubo rame d. 14 in rotoli isolato al MT NB da unicom costa 1,5€ in piu;2,38;26/07/2017;bertani;rame
+24;Tubo multistrato multy nudo d. 50 al mt;9,5;26/07/2017;Unicom;multy
+25;Tubo multistrato multy d. 16 rotoli isolato al MT;0,813;26/07/2017;Unicom;multy
+26;Tubo multistrato multy d. 26 rotoli isolato al MT;2,2;26/07/2017;Unicom;multy
+27;Tubo rame clima 3/8x0,8 al mt;1,965;26/07/2017;Unicom;Clima
+28;Tubo rame clima 1/4x0,8;1,36;26/07/2017;Unicom;clima
+29;----------------------------;132;15/10/2016;Unicom;geberit
+30;---------------------;86;15/10/2016;Unicom;geberit
+31;Tubo rame isostar grigio 12x1  preisolato in rotolo al mt;3,17;01/08/2017;Unicom;rame
+32;"Manicotto OTT5520 MM fil 1"" ottone";1,64;01/08/2017;Unicom;ottone
+33;"Manicotto  5270OT FF 1/2"" ottone";1,37;01/08/2017;Unicom;ottone
+34;Condizionatore Mitsubishi MXZ-3F54VFnità esterna;1212,2;21/02/2019;Unicom;condizionatore
+35;Condizionatore Mitsubishi MSZ-AP25VG unità interna;295;21/02/2019;Unicom;condizionatore
+36;Condizionatore Mitsubishi MSZ-AP42VG unità interna;351;21/02/2019;Unicom;condizionatore
+37;Condizionatore Daikin FTXM50M/RXMM set MONO R32;1158,1;07/09/2017;Bertani;condizionatore
+38;Condizionatore Intesa new climaster monospli inverter 9000;345;07/09/2017;Bertani;condizionatore
+39;Tubo rame cupex gel d. 3/8 x1 al metro;2,95;05/06/2018;Bertani;rame
+40;Condizionatore Haier 2U14CS4ERA unità esterna dual;531,13;07/09/2017;Bertani;condizioantore
+41;Condizionatore Haier AS07BS4HRA unità interna par brezza 7000;168,47;07/09/2017;Bertani;condizionatore
+42;Mensola sost. Condizionatore per tetto inclinati                          intesa;52,97;07/09/2017;Bertani;condizionatore
+43;Canalina Intesa 50x65 mm al metro;3,09;07/09/2017;Bertani;canalina
+44;Sifone Geberit piatto doccia  d, 60mm ribassato;22,5;07/09/2017;Bertani;Sanitari
+45;Canalina Intesa 65x90 mm al metro;4,51;07/09/2017;Bertani;canalina
+46;Condizionatore Daikin FTXM20M unità interna M30 R32;234,04;08/06/2018;Unicom;condizionatore
+47;Condizionatore Daikin monosplit FTXM25M  UE+UI A+++/A+++;706;08/06/2018;Unicom;condizionatore
+48;Condizionatore Daikin 3MXM52M unità esterna trialspli R32;1204,51;07/09/2017;Bertani;condizionatore
+49;Tubo rame Cupex d. 1/4x1 al metro;1,99;07/09/2017;Bertani;rame
+50;Condizionatore Mitsubishi MSZ-SF42VE-E1 unità interna parete;315,84;07/09/2017;Bertani;Condizionatore
+51;Condizionatore Mitsubishi MUZ-SF42VE-E4 unità esterna mono;590,32;07/09/2017;Bertani;Condizionatore
+52;Canalina  Intesa 75x125 mm al metro;9,5;05/06/2018;Bertani;canalina
+53;Tubo multy isol. rot 50 mt d. 20x2,0 al mt;0,98;07/09/2017;Bertani;multy
+54;Caldaia Cosmogas modello Cielodens 34P cod. 110905908 per esterno;1905,66;06/04/2022;Nuova Sirt;caldaia
+55;Kit scarico orizzontale d. 60 pp cod. 62617271;91,26;06/04/2022;Nuova Sirt;Tubazioni caldaia
+56;"Raccordo multistrato tiemme 29X1"" dritto maschio";5,15;24/10/2017;Nuova sirt;idraulica
+57;Raccordo multistrato Tiemme 26x3/4 curvo femmina;5,6;24/10/2017;Nuova Sirt;idraulica
+58;Valvola europa di ritegno 3/4;5;24/10/2017;Nuova Sirt;idraulica
+59;Rubinetto a sfera valsfer 3/4 maschio femmina;5,5;24/10/2017;Nuova Sirt;indraulica
+60;"Rubinetto gas sfera valsfer 1/2"" a squadro";5;24/10/2017;Nuova Sirt;idraulica
+61;Minuteria;3,8462;24/10/2017;Dap;idraulica
+62;Manodopera idraulica;27,69;23/09/2022;Dap;idraulica
+63;Flessibile inox 3/4 20-40 cm;7,1;24/10/2017;Nuova Sirt;idraulica
+64;Flessibile inox 3/4 26-52 cm;7,4;24/10/2017;Nuova Sirt;idraulica
+67;Scheda KYO a 4 zone.;40,2;27/10/2017;bentel;allarme
+68;Scheda KYO a 8 zone con interfaccia per ricevitori via radio.;49,4;27/10/2017;bentel;allarme
+69;Scheda KYO a 8 zone espandibile a 32 zone.;87,3;27/10/2017;bentel;allarme
+70;Scheda KYO a 8 zone con interfaccia per ricevitori via radio completa di morsetti di alimentazione per ogni singola zona.;56,6;27/10/2017;bentel;allarme
+71;Scheda KYO a 8 zone espandibile a 32 zone completa di morsetti di alimentazione per ogni singola zona.;91,4;27/10/2017;bentel;allarme
+72;Contenitore metallico per schede K8G e K32G.;57,25;27/10/2017;bentel;allarme
+73;Contenitore metallico per schede K4, K8, e K32.;17;27/10/2017;bentel;allarme
+74;Accessorio antisabotaggio per contenitore BOX-M.;5,75;27/10/2017;bentel;allarme
+75;"Contenitore plastico per Kyo UNIT. Può alloggiare il trasformatore
+TRF e gli alimentatori switching BAQ15 e BAQ35.";16,85;27/10/2017;bentel;allarme
+76;"Accessorio antistrapppo/antisabotaggio per tastiera MIA e ALS E
+contenitore BOX-P.";4;27/10/2017;bentel;allarme
+77;Trasformatore da 1A per schede K4, K8 e K32. Da alloggiare nel contenitore BOX-M o nel contenitore BOX-P.;8,75;27/10/2017;bentel;allarme
+78;"SOLO ABSOLUTA Tastiera LCD Nera con lettore di prossimità e 3 Ternimali I/O
+programmabili";70,25;27/10/2017;bentel;allarme
+79;"SOLO ABSOLUTA Tastiera LCD Bianca con lettore di prossimità e 3 Ternimali I/O
+programmabili";70,25;27/10/2017;bentel;allarme
+80;* Tastiera Classika LCD;59,65;27/10/2017;bentel;allarme
+81;* Lettore di prossimità ECLIPSE 2 per 503 1 frutto con cover standar - cod. ECL2-UKR METTERE IL FRUTTO NELL'ORDINE;23;27/10/2017;bentel;allarme
+82;* Tastiera Premium LCD con lettore di prossimita e 3 I/O;85,6;27/10/2017;bentel;allarme
+83;Comunicatore Universale GSM - contenitore plastico -cod. PFNDSBL3BGS220;157,5;27/10/2017;bentel;allarme
+84;Comunicatore Universale GSM - Kit scheda + antenna -cod. PFNKTBL3BGS220K;152,5;27/10/2017;bentel;allarme
+85;Comunicatore Universale 3G - contenitore plastico -cod. PFNDSBL3B3G220E;177,5;27/10/2017;bentel;allarme
+86;Comunicatore Universale 3G - Kit scheda + antenna -cod. PFNKTBL3B3G220KE;172,5;27/10/2017;bentel;allarme
+87;* Comunicatore GSM/GPRS/SMS con contenitore plastico -cod. BGSM-120BA;155,25;27/10/2017;bentel;allarme
+88;* Contatto magnetico standar in plastica per finestre;5;27/10/2017;bentel;allarme
+89;* Contatto magnetico standar per porta blindata;10;27/10/2017;bentel;allarme
+90;Comunicatore GSM/GPRS/SMS con contenitore plastico -cod. PFNDSBL3BGSM10B3;126,2;27/10/2017;bentel;allarme
+91;Kit Scheda Comunicatore GSM/GPRS/SMS con antenna 25cm -cod. PFNKTBL3BGSM10C3;115;27/10/2017;bentel;allarme
+92;Kit Scheda Comunicatore GSM/GPRS/SMS con antenna 2mt -cod. PFNKTBL3BGSM10E3;120;27/10/2017;bentel;allarme
+93;* Modulo espansione con 6 terminali I/O programmabili per Kyo M-IN/OUT;35,5;27/10/2017;bentel;allarme
+94;* KIT KYO 32 con kyo32g contenitore plastico, alimentatore, tastiera classika LCD, sirena cool-pi, 4 doppia tecnologia;327,5;27/10/2017;bentel;allarme
+95;* Kit batteria per centrale e sirena;30;27/10/2017;bentel;allarme
+96;Antenna per contenitore metallico Absoluta ABS-M -cod. PFNACBL3ABS-AM;7,75;27/10/2017;bentel;allarme
+97;Contenitore plastico per BGSM-100/120 -cod. PFNCPBL0BGSM12BX;28;27/10/2017;bentel;allarme
+98;Sirena autoalimentata per uso esterno. -cod. PFNSRBL1LADY-PI;46;27/10/2017;bentel;allarme
+99;Sirena autoalimentata per uso esterno con antischiuma. -cod. PFNSRBL1LADYFPI;59,25;27/10/2017;bentel;allarme
+100;Sirena autoalimentata con antischiuma e lampeggiatore strobo. -cod. PFNSRBL1LADYFS;74;27/10/2017;bentel;allarme
+101;Kit plastico sirena Lady. -cod. PFNKTBL3LADYK;15,9;27/10/2017;bentel;allarme
+102;Sirena autoalimentata per uso esterno. -cod. PFNSRBL1CALL-PI;45;27/10/2017;bentel;allarme
+103;Sirena Autoalimentata per Esterno Verniciata SILVER -cod. PFNSRBL1CALL-SV;57,5;27/10/2017;bentel;allarme
+104;Sirena Autoalimentata per Esterno Verniciata BRONZO -cod. PFNSRBL1CALL-BR;57,5;27/10/2017;bentel;allarme
+105;Sirena autoalimentata per uso esterno con antischiuma. -cod. PFNSRBL1CALLFPI;57;27/10/2017;bentel;allarme
+106;Sirena 12 V bianca da interno con strobo. - cod. PFNSRBL2WAVE-WS;20,25;27/10/2017;bentel;allarme
+107;Sirena 12 V bianca da interno autoalimentata con strobo. - cod. PFNSRBL2WAVE-WSB;32,25;27/10/2017;bentel;allarme
+108;Rilevatore PIR Mod .A Immunità Animali domestici - cod. PFNRABL3BMD501;9,75;27/10/2017;bentel;allarme
+109;"Rilevatore Doppia Tecnologia Mod. A Antimascheramento & MW
+10.525 - cod. PFNRABL3BMD503";31,35;27/10/2017;bentel;allarme
+110;"Rilevatore Doppia Tecnologia Mod. con Immunità Animali
+domestici - cod. PFNRABL3BMD504";26,1;27/10/2017;bentel;allarme
+111;Alimentatore switching da 1,5A per Absoluta e Kyo Unit - cod. PFNALBL3BAQ15;16,25;27/10/2017;bentel;allarme
+112;Alimentatore switching da 2,6A - cod. PFNALBL3BAW35T12;26,75;27/10/2017;bentel;allarme
+113;Alimentatore switching da 3,6A - cod. PFNALBL3BAW50T12;31,75;27/10/2017;bentel;allarme
+114;Alimentatore switching da 5,4A - cod. PFNALBL3BAW75T12;41,75;27/10/2017;bentel;allarme
+115;* Sensore tenda doppia tecnologia per porte e finestre;45,5;03/11/2017;Sonepar;Allarme
+116;Termocamino Jollymec modello Foghet Evo Idro 15-18 Kw pellet/legna cod. FOG/EVO/PEL/SS;4614;29/11/2017;JOLLYMEC;TERMOCAMAMINO
+117;Modulo  940 mm doppia parete d. 150;86,9;29/11/2017;Italfum;Tubazioni da fumo
+118;Dosatore Polifosfati;107,69;06/12/2017;;
+119;Defangatore;92,3;07/02/2020;;
+120;Super kariba cassetta duo esterna PVC;49,7;24/01/2018;Bertani;bagni
+121;cosmogas Kit basamento novadens cod. 62660026;126,36;19/01/2023;Nuova sirt;caldaie
+122;Cosmogas Prolunga  60-100 coassiale esterno in acciaio smaltato bianco in pp 1 metro cod. 62617231;40,50;19/01/2023;Nuova sirt;Caldaie
+123;Cosmogas Raccordo  60-100  coassiale per scarico vert. Esterno cod. 62617224;47,52;31/03/2025;nuova sirt;caldaie
+124;Cosmogas terminale scarico fumi a tetto completa di conversa 60-100 ( sono n.2 codici) cod. 62617255 cod. 62617304;131,22;19/01/2023;nuova sirt;caldaie
+125;Kit solare 2 pannelli verticali + bollitore 300lt doppio serpentino + 10 tubo solare + raccordi per bollitore rif Sunerg KIT_N302/B  -p.21 solo materiale;2000;20/03/2018;Sunerg;solare
+126;Manodopera montaggio impianto solare tipo standar 300lt, 2 pannelli  2Per-2GG;1000;20/03/2018;Dap;manopera
+127;DAP (R30) bagno n. 4 attachi Wc, budet, lavababo, pred. Doccia escluso bragha;615,38;14/05/2018;DAP;bagni
+128;DAP (R30) bagno n. 4-1/2 attachi Wc, budet, lavabo, pred. Doccia+lavatrice escluso braga;692,33;14/05/2018;DAP;Bagni
+129;DAP (R30) Bagno nuovo attaco termoarreda da termo esistente;153,85;14/05/2018;DAP;Bagni
+130;DAP (R30) bagno n. 3 attachi Wc, budet, lavabo escluso braga;461,55;14/05/2018;DAP;Bagni
+131;DAP (R30) bagno spostamento semplice bragha WC 2ore + €.50 materiale;153,85;14/05/2018;DAP;Bagni
+132;---------------------------------------------------;0;14/05/2018;----;---
+133;Condizionatore Daikin Unità esterna 2MXM50M/M9 R32 dual split;958,55;15/05/2018;Unicom;Condizionatore
+134;Condizionatore Daikin unità esterna 3MXM52M R32 tral split;1320;15/05/2018;Unicom;Condizionatore
+135;Condizionatore Daikin unità interna FTXM25M R32;272,49;15/05/2018;Unicom;condizionatore
+136;Condizionatore Daikin Unità interna FTXM35M R32;314,68;15/05/2018;Unicom;condizionatore
+137;Condizionatore Daikin Unità esterna 2MXM40M R32 dual split;802,25;15/05/2018;Unicom;Condizionatore
+138;Condizionatore Daikin Unità esterna 3MXM68M/N R32 trial split;1588;17/05/2018;Unicom;Condizionatore
+139;Condizionatore Daikin Unità esterna 3MXM40M/N R32 trial split;1123,15;17/05/2018;Unicom;Condizionatore
+140;Raccordo per canalina intesa clima 75mm;5;05/06/2018;Bertani;Condizionatore
+141;Condizionatore Daikin monosplit FTXM35M  UE+UI A+++/A+++;816;08/06/2018;Unicom;Condizionatore
+142;Condizionatore Daikin monosplit FTXM42M  UE+UI A+++/A++;1002;08/06/2018;Unicom;Condizionatore
+143;Condizionatore Daikin monosplit FTXP25L  UE+UI A+++/A++ novita 2018;593;08/06/2018;Unicom;Condizionatore
+144;Condizionatore Daikin monosplit FTXP35L  UE+UI A+++/A++ novita 2018;704;08/06/2018;Unicom;Condizionatore
+145;Condizionatore Daikin monosplit FTXP50L  UE+UI A++/A+ novita 2018;1014;08/06/2018;Unicom;Condizionatore
+146;Caldaia Cosmogas modello Novadens 34 B art. 112905508 tramite boiler (escluso boiler);1925,64;06/04/2022;Nuova Sirt;Caldaia
+147;Caldaia Cosmogas modello Mydens 34 B art. 1A7900008 tramite boiler (escluso boiler);1636,20;19/01/2023;Nuova Sirt;Caldaia
+148;Box Doccia 80x120 Sam parete fissa - Sam porta 3A America;380,65;15/06/2018;Nuova sirt;sanitari
+149;Miscelatore lavabo Apollo 3;29,64;15/06/2018;Nuova Sirt;Rubinetteria
+150;Miscelatore bidet Apollo 3;29,64;15/06/2018;Nuova Sirt;Rubinetteria
+151;Asta saliscendi Ischia;29,25;15/06/2018;Nuova Sirt;Rubinetteria
+152;Miscelatore doccia incasso Apollo 3;19,35;15/06/2018;Nuova Sirt;Rubinetteria
+153;Miscelatore doccia incasso SLY;24,55;15/06/2018;Nuova Sirt;Rubinetteria
+154;Addolcitore North Star NSC 17 UD (Indicato per 3 persone);822,8;19/06/2018;Stema;Addolcitori
+155;Filtro Cosmo 2 pulente manuale con scarico antigocciolamento cartuccia inox 90 micron e spazzolatura;88;19/06/2018;Stema;addolcitori
+156;Condizionatore Mitsubishi MUZ-AP25VG unità esterna monosplit;422,96;22/02/2019;Unicom;Condizionatori
+157;COMBIFIX ITALIA X VASO SOSP.SIGMA 110790   GEBERIT INCASSO;145;27/02/2019;NUOVA SIRT;SANITARI
+158;COMBIFIX ITALIA BIDET SOSP.457.608.00.5  INCASSO GEBERIT;85;27/02/2019;NUOVA SIRT;SANITARI
+159;Protettivo alta temperatura cod. 18063256 Mobildeno MYK32 Prezzo al litro;31,5;12/06/2019;Nuova Sirt;Protettivo
+160;Curva coassiale 90° d. 60/100 terminale cod. 62617254 per Novadens;44,82;19/01/2023;nuova sirt;fumisteria
+161;Prolunga d. 60/100 coassiale 1000 mm cod. 62617231;40,50;19/01/2023;nuova sirt;fumisteria
+162;;;;;
+163;Caldaia Sime Uniqa Revolution;1290;26/02/2020;Nuova Sirt;caldaia
+164;;;;;
+165;Caldaia Immergas Vitrix zeus 32 ERP;1572,51;04/08/2020;Cambielli;Caldaia
+166;Lavaggio impianto per appartamento 60-100mt;461,54;09/04/2025;Dap;Idro
+167;Raccorderia in ottone, accessori montaggio (unita da €.50,00);38,462;14/12/2020;Dap;Idro
+168;Noleggio piattaforma per 1 giorno;192,31;14/12/2020;Blackout;Noleggi
+169;Cosmogas cronocomando CR04 art. 62101070;208,44;19/01/2023;Nuova sirt;accessori
+170;Caldaia Cosmogas Novadens 34C cod. 11590055080000 SOLO RISCALDAMENTO;2005,56;19/01/2023;nuova sirt;caldaia
+171;Caldaia Cosmogas Mydens 34 C cod. 1A8900008 SOLO RISCALDAMENTO;1625,40;19/01/2023;Nuova Sirt;caldaia
+172;Caldaia marca Sime modello Vera HE 25 istantanea;790,80;06/06/2024;nuova sirt;caldaia
+173;Cronotermostato Dimmi per Novadens cod. 63501071;221,94;19/01/2023;Nuova sirt;caldaia accessori
+174;Caldaia a condensazione Cosmogas Mydens 24B articolo 1A7500008;1491,48;19/01/2023;Nuova Sirt;caldaia
+175;Caldaia Cosmogas Cielodens 24P cod. 110005908;1861,38;19/01/2023;Nuova Sirt;caldaia
+176;Scambiatore a piastre;390;26/01/2024;nuova sirt;caldaia
+177;Immergas Vitrix tera 24;776,50;28/03/2023;bertani;caldaia
+178;Curva m.f. 45° d. 60 cod. 62617257;14,04;16/10/2023;nuova sirt;caldaia
+179;Circolatore Dab 230 Evosta 3 230V;174;26/01/2024;nuova sirt;caldaia
+180;"Dab coppia bocca ghisa 1""1/21"" F";11,84;26/01/2024;nuova sirt;caldaia
+181;Vaso espansione 24 lt;50;26/01/2024;;caldaia
+183;curva coassiale  90° d. 60/100 cod. 62617234;29,70;05/07/2024;cosmogas;tubazioni
+184;curva coassiale 90° d. 60/100 terminale per Novadens cod. 62617254;44,82;05/07/2024;cosmogas;tubazioni
+185;curva coassiale m.f. 45° d. 60/100 cod. 62617252;32,94;05/07/2024;cosmogas;tubazioni
+186;Prolunga 60/100 coassiale 1000 mm cod. 62617231;40,50;05/07/2024;cosmogas;tubazioni
+187;Raccordo d. 60/100 coassiale cod. 62617224;47,52;31/03/2025;cosmogas;tubazioni
+188;Prolunga m.f. in polipropilene d. 60 1000mm cod. 62617261;18,14;05/07/2024;cosmogas;tubazioni
+189;Prolunga m.f. in polipropilene d. 60 500mm cod. 62617283;13,39;05/07/2024;cosmogas;tubazioni
+190;curva m.f. 90° in polipropilene d. 60 cod. 62617259;14,04;05/07/2024;cosmogas;tubazioni
+191;curva m.f. 45° in polipropilene d. 60 cod. 62617257;14,04;05/07/2024;cosmogas;tubazioni
+192;Dimmi cronotermostato modulante wifi cod. 63501070;208,44;05/07/2024;cosmogas;accessori
+193;Caldaia  Immergas Victrix Zeus 32 con bollitore 45 litri;1811,50;19/09/2024;bertani;caldaia
+194;Caldaia Cosmogas Novaplus   24K con microaccumulo cod. 111005608;2040,12;05/11/2024;nuova sirt;caldaia
+195;Caldaia Cosmogas Novaplus 34K con microaccumulo cod. 111905608;2237,22;16/12/2024;Nuova sirt;caldaia
+196;Caldaia Cosmogas Myplus 24 P (1G5500008) istantanea;1556,82;31/03/2025;Nuova sirt;caldaia
+197;Caldaia Cosmogas MyPlus 34P (1G5900008) istantanea;1770,12;31/03/2025;Nuova sirt;caldaia
+198;Caldaia Cosmogas Myplus 24B (1G6500008) bollitore non incluso;1563,30;31/03/2025;Nuova sirt;caldaia
+199;Caldaia Cosmogas Myplus 34B ( 1G6900008) bollitore non incluso;1718,28;31/03/2025;Nuova Sirt;caldaia
+200;Cronocomando evoluto wifi comando cod. 63501144 per Myplus Cosmogas;252,18;31/03/2025;Nuova sirt;caldaia
+201;manodopera montaggio caldaia a condensazione 24 ore;800;31/03/2025;DAP;caldaia
